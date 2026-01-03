@@ -15,13 +15,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=syedsaqlain34&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=syedsaqlain34&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=syedsaqlain34&icon=0&color=0)](https://visitcount.itsvg.in)
-
+This repository name is Wrong & it didn't not work properly you can visit the repository which name is syedsaqlain34 there you can find the actual prompt & code of me GitHub profile. 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
